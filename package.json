@@ -1,0 +1,19 @@
+{
+  "name": "images-loader",
+  "version": "0.0.1",
+  "description": "a simple util for loading images.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com/xoyimi/images-loader"
+  },
+  "keywords": [
+    "images",
+    "loader"
+  ],
+  "author": "xoyimi",
+  "license": "ISC"
+}

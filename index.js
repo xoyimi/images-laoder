@@ -3,7 +3,7 @@
  * @param callback 每成功加载一个图片之后的回调， “已加载的图片总数/要加载的图片总数”表示进度
  * @param timeout 每个图片加载的超时时间，默认为3s
  */
-export default function imagesLoader(images, callback, timeout) {
+export default function imagesPreloader(images, callback, timeout) {
     timeout = timeout || 3000;
     images = Array.isArray(images) && images || [];
     callback = typeof (callback) === 'function' && callback;

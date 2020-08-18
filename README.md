@@ -3,6 +3,6 @@
 **使用方法**
 
 ``` 
-imagesLoader(images, callback, timeout)
+imagesPreloader(images, callback, timeout)
 ```
 

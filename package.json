@@ -1,5 +1,5 @@
 {
-  "name": "images-loader",
+  "name": "images-preloader",
   "version": "0.0.1",
   "description": "a simple util for loading images.",
   "main": "index.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "github.com/xoyimi/images-loader"
+    "url": "github.com/xoyimi/images-preloader"
   },
   "keywords": [
     "images",
